@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Languages and Tools
+<p align="left">
+    <a href="https://github.com/javy99">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,react,nextjs,python,git,jenkins" />
+    </a>
+</p>
