@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 ## Languages and Tools
 <p align="left">
     <a href="https://github.com/javy99">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,react,nextjs,python,git,jenkins" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,react,python,java,cpp,git,bash,postgres,jenkins" />
     </a>
 </p>
+
+## My Stats
+<div align="center">
+<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokh-A&show_icons=true&layout=compact&theme=dark&hide_border=true&" alt="Top Languages"> -->
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Shokh-A&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Shokh-A&theme=dark&hide_border=true" />
+</div>
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Shokh-A&abbreviated=true) -->
