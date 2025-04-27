@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 <p align="left">
-    <a href="https://github.com/javy99">
+    <a href="https://github.com/Shokh-A">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,react,python,java,cpp,git,bash,postgres,jenkins" />
     </a>
 </p>
